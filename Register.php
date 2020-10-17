@@ -10,7 +10,7 @@
     <body background="kuhnya-1920x1080-gostinaya-dom-klassicheskiy-elegantniy-ukrashenie-4364.jpg">
     </body>
     <div class="container-two">
-      <form action="vendor/signup.php" method="post">
+      <form action="auth/signup.php" method="post">
         <div class="dws-input">
         <input type="text" name="username" placeholder="Введите логин">
       </div>
